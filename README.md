@@ -1,4 +1,6 @@
-# Accepted for IROS 2021
+# CFEAR Radarodometry
+
+## Accepted for IROS 2021
 This repo will be updated with our sourcecode for CFEAR Radarodometry upon journal acceptance.
 
 # Links
