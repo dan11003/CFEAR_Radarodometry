@@ -1,8 +1,9 @@
 # CFEAR Radarodometry
 
-## CFEAR-3 journal is currently under review
-* CFEAR-3 demo can be seen [here](https://youtu.be/ENOksytHMHw)
-* ArXiv link will be posted here
+## CFEAR-3 journal: "Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments"
+* Currently under review
+* A demo is found [here](https://youtu.be/ENOksytHMHw). The video intends to visually demonstrate the experiments carried out in the paper.
+* An ArXiv link will be posted within soon
 * This repo will be updated with our sourcecode for CFEAR Radarodometry upon journal acceptance
 
 ## CFEAR-2 Presented at IROS 2021
