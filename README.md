@@ -1,8 +1,8 @@
 # CFEAR Radarodometry
 
 ## CFEAR-3 journal is currently under review
-* CFEAR-3 demo will be posted here
-* Arxiv link will be posted here
+* CFEAR-3 demo can be seen [here](https://youtu.be/ENOksytHMHw)
+* ArXiv link will be posted here
 * This repo will be updated with our sourcecode for CFEAR Radarodometry upon journal acceptance
 
 ## CFEAR-2 Presented at IROS 2021
