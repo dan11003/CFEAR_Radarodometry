@@ -13,6 +13,7 @@
 
 ## CFEAR-1 presented at the the icra radar workshop 2021
 * The initial work on CFEAR was presented at Radar Perception for All-Weather Autonomy, a Half-Day Workshop at 2021 IEEE International Conference on Robotics and Automation (ICRA)
+* The preprint is found here [here](https://arxiv.org/abs/2109.09994)
 * The presentation is found [here](https://www.youtube.com/watch?v=Pvkvd_qqgKk&ab_channel=RadiateDataset)
 
 ## Contact
