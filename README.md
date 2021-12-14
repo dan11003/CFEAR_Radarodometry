@@ -20,4 +20,5 @@
 * The presentation is found [here](https://www.youtube.com/watch?v=Pvkvd_qqgKk&ab_channel=RadiateDataset)
 
 ## Contact
-* If you have any questions, feel free to contact me at: dla.adolfsson@gmail.com
+* If you have any questions, feel free to contact me:
+Daniel Adolfsson (dan11003) daniel.adolfsson@oru.se
