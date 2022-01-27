@@ -7,6 +7,7 @@
 ## CFEAR-3 journal: "Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments"
 * Currently under review
 * A demo is found [here](https://youtu.be/ENOksytHMHw). The video intends to visually demonstrate the experiments carried out in the paper.
+* We have now published our [diverse radar datasets](https://drive.google.com/drive/folders/1uATfrAe-KHlz29e-Ul8qUbUKwPxBFIhP?usp=sharing)
 * An ArXiv link will be posted within soon
 * This repo will be updated with our sourcecode for CFEAR Radarodometry upon journal acceptance
 
