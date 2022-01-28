@@ -1,4 +1,4 @@
-# CFEAR Radarodometry
+# CFEAR Radarodometry - An accurate and efficient method for  incremental radar odometry that generalize across environments
 * Our latest results are found [here](https://youtu.be/ENOksytHMHw). 
 
 [![Watch the video](https://i.imgur.com/ADua8Z8.png)](https://youtu.be/ENOksytHMHw)
