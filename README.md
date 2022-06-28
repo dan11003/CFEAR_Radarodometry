@@ -8,7 +8,7 @@
 * Currently under review
 * A demo is found [here](https://youtu.be/QP_3Q-UChtU). The video intends to visually demonstrate the experiments carried out in the paper  <!--https://youtu.be/ENOksytHMHw-->
 * We have now published our [diverse radar datasets](https://drive.google.com/drive/folders/1uATfrAe-KHlz29e-Ul8qUbUKwPxBFIhP?usp=sharing)
-* Our evaluation will be released soon [released](https://github.com/dan11003/CFEAR_evaluation)
+* Our evaluation will be released soon
 * An ArXiv link will be posted within soon
 * This repo will be updated with our sourcecode for CFEAR Radarodometry upon journal acceptance
 
