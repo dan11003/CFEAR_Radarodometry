@@ -52,6 +52,27 @@ doi={10.1109/IROS51168.2021.9636253}}
 ```
 </details>  
 
+## Relevant Publications
+
+[CorAl: Introspection for robust radar and lidar perception in diverse
+environments using differential entropy](https://www.sciencedirect.com/science/article/pii/S0921889022000768)
+
+Learns detection of small localization errors using Navtech radar data
+<details>
+<summary>Bibtex</summary>
+ 
+```
+@article{DBLP:journals/corr/abs-2109-09994,
+  author    = {Daniel Adolfsson and Martin Magnusson and Anas W. Alhashimi and Achim J. Lilienthal and Henrik Andreasson},
+  title     = {Oriented surface points for efficient and accurate radar odometry},
+  journal   = {CoRR}, volume    = {abs/2109.09994}, year      = {2021}, url       = {https://arxiv.org/abs/2109.09994}, eprinttype = {arXiv}, eprint    = {2109.09994},
+  timestamp = {Mon, 27 Sep 2021 15:21:05 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2109-09994.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+  
+```
+</details>  
 
 ## Contact
 * If you have any questions, feel free to contact me:
