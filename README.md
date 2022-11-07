@@ -1,21 +1,42 @@
-# CFEAR Radarodometry - An accurate and efficient method for  incremental radar odometry that generalize across environments
+# Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments
+
+## Accepted for Transactions On Robotics!!
 * A video demo of our latest results is shown [here](https://youtu.be/QP_3Q-UChtU).  <!-- https://youtu.be/ENOksytHMHw -->
 
 [![Watch the video](https://i.imgur.com/UGC2pbH.png)](https://youtu.be/ENOksytHMHw)
 
 
 ## CFEAR-3 journal: "Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments"
-* Currently under review
+* Accepted for journal "Transactions On Robotics"
+* [Preprint of our paper](https://arxiv.org/abs/2211.02445)
 * A demo is found [here](https://youtu.be/QP_3Q-UChtU). The video intends to visually demonstrate the experiments carried out in the paper  <!--https://youtu.be/ENOksytHMHw-->
-* We have now published our [diverse radar datasets](https://drive.google.com/drive/folders/1uATfrAe-KHlz29e-Ul8qUbUKwPxBFIhP?usp=sharing)
-* Our evaluation will be released soon
-* An ArXiv link will be posted within soon
-* This repo will be updated with our sourcecode for CFEAR Radarodometry upon journal acceptance
+* We release most of our content, including
+  * [Our diverse radar datasets](https://drive.google.com/drive/folders/1uATfrAe-KHlz29e-Ul8qUbUKwPxBFIhP?usp=sharing)
+  * [Our full evaluation](https://github.com/dan11003/CFEAR_evaluation) which includes source code for paper figures
+  * [Source code](https://github.com/dan11003/CFEAR_Radarodometry_code_public)
+  
+<details>
+<summary>citation</summary>
+ 
+```
+@misc{https://doi.org/10.48550/arxiv.2211.02445,
+  doi = {10.48550/ARXIV.2211.02445},
+  url = {https://arxiv.org/abs/2211.02445},
+  author = {Adolfsson, Daniel and Magnusson, Martin and Alhashimi, Anas and Lilienthal, Achim J. and Andreasson, Henrik},
+  keywords = {Robotics (cs.RO), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+} 
+```
+</details> 
+
 
 ## CFEAR-2 Conference article: CFEAR Radarodometry - Conservative Filtering for Efficient and Accurate Radar Odometry
 Presented at IROS 2021
 <details>
-<summary>Bibtex</summary>
+<summary>citation</summary>
  
 ```
 @INPROCEEDINGS{9636253,  author={Adolfsson, Daniel and Magnusson, Martin and Alhashimi, Anas and Lilienthal, Achim J. and Andreasson, Henrik},
@@ -23,7 +44,6 @@ booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Syst
 title={CFEAR Radarodometry - Conservative Filtering for Efficient and Accurate Radar Odometry},
 year={2021},  volume={},  number={},  pages={5462-5469},
 doi={10.1109/IROS51168.2021.9636253}}
-  
 ```
 </details>  
 
@@ -37,7 +57,7 @@ doi={10.1109/IROS51168.2021.9636253}}
 * [Workshop presentation](https://www.youtube.com/watch?v=Pvkvd_qqgKk&ab_channel=RadiateDataset)
 
 <details>
-<summary>Bibtex</summary>
+<summary>citation</summary>
  
 ```
 @article{DBLP:journals/corr/abs-2109-09994,
