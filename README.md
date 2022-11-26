@@ -28,6 +28,7 @@
   publisher = {arXiv},
   year = {2022},
   copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
+  booktitle = {To Appear in Transactions on Robotics}
 } 
 ```
 </details> 
