@@ -12,7 +12,7 @@
 * A demo is found [here](https://youtu.be/QP_3Q-UChtU). The video intends to visually demonstrate the experiments carried out in the paper  <!--https://youtu.be/ENOksytHMHw-->
 * We release most of our content, including
   * [Our diverse radar datasets](https://drive.google.com/drive/folders/1uATfrAe-KHlz29e-Ul8qUbUKwPxBFIhP?usp=sharing)
-  * [Our full evaluation](https://github.com/dan11003/CFEAR_Radarodometry_code_public) which includes source code for paper figures
+  * [Our full evaluation](https://github.com/dan11003/CFEAR_Radarodometry_evaluation_public) which includes source code for paper figures
   * [Source code](https://github.com/dan11003/CFEAR_Radarodometry_code_public)
   
 <details>
