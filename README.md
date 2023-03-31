@@ -74,6 +74,26 @@ doi={10.1109/IROS51168.2021.9636253}}
 </details>  
 
 ## Relevant Publications
+[TBV Radar SLAM - trust but verify loop candidates](https://arxiv.org/abs/2301.04397)
+
+Large-scale introspective SLAM with spinning radar.
+
+<details>
+<summary>Bibtex</summary>
+ 
+```
+@misc{adolfsson2023tbv,
+      title={TBV Radar SLAM -- trust but verify loop candidates}, 
+      author={Daniel Adolfsson and Mattias Karlsson and Vladimír Kubelka and Martin Magnusson and Henrik Andreasson},
+      year={2023},
+      eprint={2301.04397},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+  
+```
+</details> 
+
 
 [CorAl: Introspection for robust radar and lidar perception in diverse
 environments using differential entropy](https://www.sciencedirect.com/science/article/pii/S0921889022000768)
