@@ -1,14 +1,19 @@
 # Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments
+## News (January 2023) CFEAR is integrated in  [TBV Radar SLAM](https://github.com/dan11003/tbv_slam_public)
+## News (April 2023): Article is now published in T-RO.
 
-## Accepted for Transactions On Robotics!!
+
+Paper: [T-RO](https://ieeexplore.ieee.org/document/9969174) or
+[arXiv](https://arxiv.org/abs/2211.02445)
+
 * A video demo of our latest results is shown [here](https://youtu.be/QP_3Q-UChtU).  <!-- https://youtu.be/ENOksytHMHw -->
 
 [![Watch the video](https://i.imgur.com/UGC2pbH.png)](https://youtu.be/ENOksytHMHw)
 
 
 ## CFEAR-3 journal: "Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments"
-* Accepted for journal "Transactions On Robotics"
-* [Preprint of our paper](https://arxiv.org/abs/2211.02445)
+* Paper: [T-RO](https://ieeexplore.ieee.org/document/9969174) or
+[arXiv](https://arxiv.org/abs/2211.02445)
 * A demo is found [here](https://youtu.be/QP_3Q-UChtU). The video intends to visually demonstrate the experiments carried out in the paper  <!--https://youtu.be/ENOksytHMHw-->
 * We release most of our content, including
   * [Our diverse radar datasets](https://drive.google.com/drive/folders/1uATfrAe-KHlz29e-Ul8qUbUKwPxBFIhP?usp=sharing)
@@ -19,23 +24,23 @@
 <summary>citation</summary>
  
 ```
-@misc{https://doi.org/10.48550/arxiv.2211.02445,
-  doi = {10.48550/ARXIV.2211.02445},
-  url = {https://arxiv.org/abs/2211.02445},
-  author = {Adolfsson, Daniel and Magnusson, Martin and Alhashimi, Anas and Lilienthal, Achim J. and Andreasson, Henrik},
-  keywords = {Robotics (cs.RO), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  title = {Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution Non Commercial No Derivatives 4.0 International}
-  booktitle = {To Appear in Transactions on Robotics}
-} 
+@ARTICLE{9969174,
+  author={Adolfsson, Daniel and Magnusson, Martin and Alhashimi, Anas and Lilienthal, Achim J. and Andreasson, Henrik},
+  journal={IEEE Transactions on Robotics}, 
+  title={Lidar-Level Localization With Radar? The CFEAR Approach to Accurate, Fast, and Robust Large-Scale Radar Odometry in Diverse Environments}, 
+  year={2023},
+  volume={39},
+  number={2},
+  pages={1476-1495},
+  doi={10.1109/TRO.2022.3221302}}
 ```
 </details> 
 
 
-## CFEAR-2 Conference article: CFEAR Radarodometry - Conservative Filtering for Efficient and Accurate Radar Odometry
+## CFEAR-2 Conference article: CFEAR Radar odometry - Conservative Filtering for Efficient and Accurate Radar Odometry
 Presented at IROS 2021
+* Published [conference article](https://ieeexplore.ieee.org/document/9636253) and [preprint](https://arxiv.org/abs/2105.01457)
+* IROS [2021 presentation](https://www.youtube.com/watch?v=VSK_XeepUxk&t=4s&ab_channel=DanielAdolfsson) 
 <details>
 <summary>citation</summary>
  
@@ -43,14 +48,13 @@ Presented at IROS 2021
 @INPROCEEDINGS{9636253,  author={Adolfsson, Daniel and Magnusson, Martin and Alhashimi, Anas and Lilienthal, Achim J. and Andreasson, Henrik},
 booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
 title={CFEAR Radarodometry - Conservative Filtering for Efficient and Accurate Radar Odometry},
-year={2021},  volume={},  number={},  pages={5462-5469},
+year={2021},  
+volume={},  
+number={},  
+pages={5462-5469},
 doi={10.1109/IROS51168.2021.9636253}}
 ```
 </details>  
-
-* Published [conference article](https://ieeexplore.ieee.org/document/9636253) and [preprint](https://arxiv.org/abs/2105.01457)
-* IROS [2021 presentation](https://www.youtube.com/watch?v=VSK_XeepUxk&t=4s&ab_channel=DanielAdolfsson) 
-
 
 ## CFEAR-1 workshop presentation: Oriented surface points for efficient and accurate radar odometry
 * The initial work on CFEAR was presented at Radar Perception for All-Weather Autonomy, a Half-Day Workshop at 2021 IEEE International Conference on Robotics and Automation (ICRA)
@@ -76,7 +80,7 @@ doi={10.1109/IROS51168.2021.9636253}}
 ## Relevant Publications
 [TBV Radar SLAM - trust but verify loop candidates](https://arxiv.org/abs/2301.04397)
 
-Large-scale introspective SLAM with spinning radar.
+Large-scale introspective SLAM using Navtech radar.
 
 <details>
 <summary>Bibtex</summary>
@@ -98,7 +102,7 @@ Large-scale introspective SLAM with spinning radar.
 [CorAl: Introspection for robust radar and lidar perception in diverse
 environments using differential entropy](https://www.sciencedirect.com/science/article/pii/S0921889022000768)
 
-Learns detection of small localization errors using Navtech radar data
+Learns detection of small localization errors using Navtech radar.
 <details>
 <summary>Bibtex</summary>
  
