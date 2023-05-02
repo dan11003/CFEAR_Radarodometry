@@ -86,14 +86,15 @@ Large-scale introspective SLAM using Navtech radar.
 <summary>Bibtex</summary>
  
 ```
-@misc{adolfsson2023tbv,
-      title={TBV Radar SLAM -- trust but verify loop candidates}, 
-      author={Daniel Adolfsson and Mattias Karlsson and Vladimír Kubelka and Martin Magnusson and Henrik Andreasson},
-      year={2023},
-      eprint={2301.04397},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
-}
+@ARTICLE{10103570,
+  author={Adolfsson, Daniel and Karlsson, Mattias and Kubelka, Vladimír and Magnusson, Martin and Andreasson, Henrik},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={TBV Radar SLAM – Trust but Verify Loop Candidates}, 
+  year={2023},
+  volume={8},
+  number={6},
+  pages={3613-3620},
+  doi={10.1109/LRA.2023.3268040}}
   
 ```
 </details> 
