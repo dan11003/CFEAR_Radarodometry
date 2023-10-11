@@ -122,4 +122,4 @@ Learns detection of small localization errors using Navtech radar.
 
 ## Contact
 * If you have any questions, feel free to contact me:
-Daniel Adolfsson (dan11003) daniel.adolfsson@oru.se
+Daniel Adolfsson (dan11003) dla.adolfsson@gmail.com
