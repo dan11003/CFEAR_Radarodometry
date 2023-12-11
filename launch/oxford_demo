@@ -41,11 +41,12 @@ export weight_intensity="true"
 
 # PARAMETERS CFEAR-2
 #export cost_type="P2L"
-#export submap_scan_size="3.5"
+#export submap_scan_size="3"
 #export registered_min_keyframe_dist="1.5"
-#export res="3"
+#export res="3.5"
 #export kstrong="15"
 #export zmin="70"
+#export weight_option="4"
 #export weight_intensity="true"
 
 
