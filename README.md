@@ -1,6 +1,9 @@
 # Lidar-level localization with radar? The CFEAR approach to accurate, fast and robust large-scale radar odometry in diverse environments
-## News (January 2023) CFEAR is integrated in  [TBV Radar SLAM](https://github.com/dan11003/tbv_slam_public)
-## News (April 2023): Article is now published in T-RO, [code](https://github.com/dan11003/CFEAR_Radarodometry_code_public) is released
+
+### 🎉 Exciting News - October 2024 🎉
+### 🏆 Our article has won the ["Best Paper Award in Computer & Robot Vision!"](https://www.linkedin.com/posts/ieee-ras-crv_computer-robot-vision-activity-7252746166373699586-usRS?utm_source=share&utm_medium=member_desktop)
+#### News (January 2023) CFEAR is integrated in  [TBV Radar SLAM](https://github.com/dan11003/tbv_slam_public)
+#### News (April 2023): Article is now published in T-RO, [code](https://github.com/dan11003/CFEAR_Radarodometry_code_public) is released
 
 
 Paper: [T-RO](https://ieeexplore.ieee.org/document/9969174) or
